@@ -1,1 +1,1 @@
-# QrCodeScan
+[![](https://jitpack.io/v/AresPan/QrCodeScan.svg)](https://jitpack.io/#AresPan/QrCodeScan)
